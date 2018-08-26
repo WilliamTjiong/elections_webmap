@@ -1,0 +1,130 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: Helvetica, sans-serif;
+    }
+
+#map {
+    height: 500px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 54px -16px rgba(120,120,120,1);
+    border-style: solid;
+    border-color:lightgrey;
+    border-width: thin;
+    }
+        
+.locaties {
+    height: 94%;
+    width: 200px;
+    border: 1px solid #ccc;
+    overflow: auto;
+    position: absolute;
+    z-index:999;
+    margin-left:90px;
+    margin-top: 12px;
+    float: left;
+
+    border-radius: 5px;
+    background:white;
+    box-shadow: 10px 10px 50px -20px rgba(120,120,120,1);
+    border-style: solid;
+    border-color:lightgrey;
+    border-width: thin;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    }
+    
+::-webkit-scrollbar-track {
+    border: none;
+    border-radius: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ccc;  
+    border-radius: 0px;
+    }
+::-webkit-scrollbar-thumb:hover {
+    background: #b7b7b7;  
+}
+
+.leaflet-control-layers-expanded {
+    border-radius: 5px !important;
+    background:white !important;
+    box-shadow: 10px 10px 50px -20px rgba(120,120,120,1) !important;
+    border-style: solid !important;
+    border-color:lightgrey !important;
+    border-width: thin !important;
+    color: gray;
+  }
+
+  .list-group-item {
+      color: #0078A8 !important;
+      border-left:none;
+      border-radius: 0px!important;
+      border-bottom: 1px solid #ccc !important;
+  }
+
+  .list-group-item:hover {
+      cursor:pointer;
+  }
+
+
+#myChart {
+    margin-top: 25px;
+
+}
+
+.list-title {
+    position: sticky;
+    margin-top: 0px;
+
+    text-align: center;
+    background-color: white;
+    top:0;
+    width:100%;
+    z-index:100;
+    color: gray ;
+    border-bottom: 1px solid #ccc;
+    border-width: thin;
+    
+}
+ 
+@media only screen and (max-width: 900px) {
+
+    .locaties {
+        height: 35%;
+        width: 200px;
+        border: 1px solid #ccc;
+        overflow: auto;
+        position: absolute;
+        z-index:999;
+        margin-left:90px;
+        margin-top: 12px;
+        float: left;
+    
+        border-radius: 5px;
+        background:white;
+        box-shadow: 10px 10px 50px -20px rgba(120,120,120,1);
+        border-style: solid;
+        border-color:lightgrey;
+        border-width: thin;
+    }
+}
+
+#jaartal_select{
+    border-radius: 5px !important;
+    background:white !important;
+    box-shadow: 10px 10px 50px -20px rgba(120,120,120,1) !important;
+    border-style: solid !important;
+    border-color:lightgrey !important;
+    border-width: thin !important;
+    color: gray ;
+    font-weight: bold;
+    position: sticky;
+    padding-left: 18px;
+}

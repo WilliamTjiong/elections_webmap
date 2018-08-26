@@ -1,0 +1,2245 @@
+var dataset_2014 = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal Nieuwland",
+        "aantal_stemmen": 2526,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 106,
+        "Amersfoort Anders": 69,
+        "Belangen Gemeenschap": 32,
+        "Burger Partij Amersfoort": 169,
+        "Christen Democratisch App\u00e9l": 286,
+        "ChristenUnie": 219,
+        "Democraten 66": 544,
+        "GroenLinks": 89,
+        "OPA": 36,
+        "Partij van de Arbeid": 299,
+        "Socialistische Partij": 215,
+        "Volkspartij voor Vrijheid en Democratie": 462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal De Brink",
+        "aantal_stemmen": 1898,
+        "lat": 52.18735,
+        "lng": 5.43136,
+        "Amersfoort 2014": 74,
+        "Amersfoort Anders": 43,
+        "Belangen Gemeenschap": 25,
+        "Burger Partij Amersfoort": 101,
+        "Christen Democratisch App\u00e9l": 181,
+        "ChristenUnie": 299,
+        "Democraten 66": 380,
+        "GroenLinks": 64,
+        "OPA": 18,
+        "Partij van de Arbeid": 155,
+        "Socialistische Partij": 159,
+        "Volkspartij voor Vrijheid en Democratie": 399
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43136,
+          52.18735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal De Bieshaar",
+        "aantal_stemmen": 1628,
+        "lat": 52.185848236084,
+        "lng": 5.37121391296387,
+        "Amersfoort 2014": 93,
+        "Amersfoort Anders": 26,
+        "Belangen Gemeenschap": 5,
+        "Burger Partij Amersfoort": 100,
+        "Christen Democratisch App\u00e9l": 308,
+        "ChristenUnie": 123,
+        "Democraten 66": 283,
+        "GroenLinks": 85,
+        "OPA": 42,
+        "Partij van de Arbeid": 165,
+        "Socialistische Partij": 150,
+        "Volkspartij voor Vrijheid en Democratie": 248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37121391296387,
+          52.185848236084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Bergkerk",
+        "aantal_stemmen": 1445,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 12,
+        "Amersfoort Anders": 32,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 69,
+        "Christen Democratisch App\u00e9l": 147,
+        "ChristenUnie": 85,
+        "Democraten 66": 475,
+        "GroenLinks": 98,
+        "OPA": 5,
+        "Partij van de Arbeid": 81,
+        "Socialistische Partij": 55,
+        "Volkspartij voor Vrijheid en Democratie": 386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Gymzaal Dopheide",
+        "aantal_stemmen": 1357,
+        "lat": 52.18978,
+        "lng": 5.39466,
+        "Amersfoort 2014": 62,
+        "Amersfoort Anders": 42,
+        "Belangen Gemeenschap": 4,
+        "Burger Partij Amersfoort": 104,
+        "Christen Democratisch App\u00e9l": 123,
+        "ChristenUnie": 178,
+        "Democraten 66": 307,
+        "GroenLinks": 99,
+        "OPA": 29,
+        "Partij van de Arbeid": 130,
+        "Socialistische Partij": 143,
+        "Volkspartij voor Vrijheid en Democratie": 136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39466,
+          52.18978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Zevensprong",
+        "aantal_stemmen": 1303,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 56,
+        "Amersfoort Anders": 31,
+        "Belangen Gemeenschap": 31,
+        "Burger Partij Amersfoort": 147,
+        "Christen Democratisch App\u00e9l": 89,
+        "ChristenUnie": 143,
+        "Democraten 66": 210,
+        "GroenLinks": 75,
+        "OPA": 42,
+        "Partij van de Arbeid": 135,
+        "Socialistische Partij": 217,
+        "Volkspartij voor Vrijheid en Democratie": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Kerkgebouw De Bron",
+        "aantal_stemmen": 1246,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 61,
+        "Amersfoort Anders": 30,
+        "Belangen Gemeenschap": 52,
+        "Burger Partij Amersfoort": 88,
+        "Christen Democratisch App\u00e9l": 95,
+        "ChristenUnie": 170,
+        "Democraten 66": 165,
+        "GroenLinks": 59,
+        "OPA": 29,
+        "Partij van de Arbeid": 219,
+        "Socialistische Partij": 187,
+        "Volkspartij voor Vrijheid en Democratie": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Station NS Piet Mondriaanplein-zijde",
+        "aantal_stemmen": 1231,
+        "lat": 52.15531,
+        "lng": 5.36783,
+        "Amersfoort 2014": 25,
+        "Amersfoort Anders": 35,
+        "Belangen Gemeenschap": 5,
+        "Burger Partij Amersfoort": 58,
+        "Christen Democratisch App\u00e9l": 62,
+        "ChristenUnie": 145,
+        "Democraten 66": 331,
+        "GroenLinks": 185,
+        "OPA": 4,
+        "Partij van de Arbeid": 134,
+        "Socialistische Partij": 125,
+        "Volkspartij voor Vrijheid en Democratie": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36783,
+          52.15531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Kerkgebouw De Boogkerk",
+        "aantal_stemmen": 1119,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 60,
+        "Amersfoort Anders": 21,
+        "Belangen Gemeenschap": 6,
+        "Burger Partij Amersfoort": 61,
+        "Christen Democratisch App\u00e9l": 112,
+        "ChristenUnie": 240,
+        "Democraten 66": 185,
+        "GroenLinks": 44,
+        "OPA": 20,
+        "Partij van de Arbeid": 105,
+        "Socialistische Partij": 95,
+        "Volkspartij voor Vrijheid en Democratie": 170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw Guido de Br\u00e8s",
+        "aantal_stemmen": 1096,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 30,
+        "Amersfoort Anders": 8,
+        "Belangen Gemeenschap": 10,
+        "Burger Partij Amersfoort": 50,
+        "Christen Democratisch App\u00e9l": 79,
+        "ChristenUnie": 98,
+        "Democraten 66": 320,
+        "GroenLinks": 164,
+        "OPA": 8,
+        "Partij van de Arbeid": 120,
+        "Socialistische Partij": 113,
+        "Volkspartij voor Vrijheid en Democratie": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Malelande",
+        "aantal_stemmen": 1036,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 51,
+        "Amersfoort Anders": 18,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 55,
+        "Christen Democratisch App\u00e9l": 156,
+        "ChristenUnie": 121,
+        "Democraten 66": 231,
+        "GroenLinks": 52,
+        "OPA": 11,
+        "Partij van de Arbeid": 70,
+        "Socialistische Partij": 67,
+        "Volkspartij voor Vrijheid en Democratie": 204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Woon- en Zorgcentrum Puntenburg",
+        "aantal_stemmen": 1032,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 31,
+        "Amersfoort Anders": 17,
+        "Belangen Gemeenschap": 6,
+        "Burger Partij Amersfoort": 93,
+        "Christen Democratisch App\u00e9l": 85,
+        "ChristenUnie": 99,
+        "Democraten 66": 230,
+        "GroenLinks": 69,
+        "OPA": 44,
+        "Partij van de Arbeid": 115,
+        "Socialistische Partij": 134,
+        "Volkspartij voor Vrijheid en Democratie": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal Zielhorst",
+        "aantal_stemmen": 1024,
+        "lat": 52.18274,
+        "lng": 5.41255,
+        "Amersfoort 2014": 72,
+        "Amersfoort Anders": 17,
+        "Belangen Gemeenschap": 8,
+        "Burger Partij Amersfoort": 62,
+        "Christen Democratisch App\u00e9l": 122,
+        "ChristenUnie": 125,
+        "Democraten 66": 195,
+        "GroenLinks": 61,
+        "OPA": 30,
+        "Partij van de Arbeid": 97,
+        "Socialistische Partij": 107,
+        "Volkspartij voor Vrijheid en Democratie": 128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41255,
+          52.18274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "ICOON Theater",
+        "aantal_stemmen": 1009,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 50,
+        "Amersfoort Anders": 20,
+        "Belangen Gemeenschap": 8,
+        "Burger Partij Amersfoort": 57,
+        "Christen Democratisch App\u00e9l": 81,
+        "ChristenUnie": 127,
+        "Democraten 66": 219,
+        "GroenLinks": 40,
+        "OPA": 15,
+        "Partij van de Arbeid": 93,
+        "Socialistische Partij": 73,
+        "Volkspartij voor Vrijheid en Democratie": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Kerkgebouw Het Brandpunt",
+        "aantal_stemmen": 1007,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 48,
+        "Amersfoort Anders": 27,
+        "Belangen Gemeenschap": 4,
+        "Burger Partij Amersfoort": 69,
+        "Christen Democratisch App\u00e9l": 102,
+        "ChristenUnie": 104,
+        "Democraten 66": 200,
+        "GroenLinks": 56,
+        "OPA": 32,
+        "Partij van de Arbeid": 111,
+        "Socialistische Partij": 115,
+        "Volkspartij voor Vrijheid en Democratie": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Woon- en Zorgcentrum St. Jozef",
+        "aantal_stemmen": 999,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 27,
+        "Amersfoort Anders": 7,
+        "Belangen Gemeenschap": 1,
+        "Burger Partij Amersfoort": 66,
+        "Christen Democratisch App\u00e9l": 184,
+        "ChristenUnie": 71,
+        "Democraten 66": 409,
+        "GroenLinks": 17,
+        "OPA": 12,
+        "Partij van de Arbeid": 31,
+        "Socialistische Partij": 73,
+        "Volkspartij voor Vrijheid en Democratie": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sportfondsenbad",
+        "aantal_stemmen": 992,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 35,
+        "Amersfoort Anders": 17,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 58,
+        "Christen Democratisch App\u00e9l": 50,
+        "ChristenUnie": 69,
+        "Democraten 66": 300,
+        "GroenLinks": 171,
+        "OPA": 18,
+        "Partij van de Arbeid": 107,
+        "Socialistische Partij": 85,
+        "Volkspartij voor Vrijheid en Democratie": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Oude Stadhuis",
+        "aantal_stemmen": 985,
+        "lat": 52.15645,
+        "lng": 5.38866,
+        "Amersfoort 2014": 21,
+        "Amersfoort Anders": 22,
+        "Belangen Gemeenschap": 8,
+        "Burger Partij Amersfoort": 55,
+        "Christen Democratisch App\u00e9l": 57,
+        "ChristenUnie": 76,
+        "Democraten 66": 237,
+        "GroenLinks": 146,
+        "OPA": 9,
+        "Partij van de Arbeid": 130,
+        "Socialistische Partij": 124,
+        "Volkspartij voor Vrijheid en Democratie": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38866,
+          52.15645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Martinuskerk",
+        "aantal_stemmen": 948,
+        "lat": 52.19221,
+        "lng": 5.38356,
+        "Amersfoort 2014": 35,
+        "Amersfoort Anders": 6,
+        "Belangen Gemeenschap": 2,
+        "Burger Partij Amersfoort": 59,
+        "Christen Democratisch App\u00e9l": 347,
+        "ChristenUnie": 76,
+        "Democraten 66": 138,
+        "GroenLinks": 26,
+        "OPA": 24,
+        "Partij van de Arbeid": 63,
+        "Socialistische Partij": 72,
+        "Volkspartij voor Vrijheid en Democratie": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38356,
+          52.19221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Station NS Hoofdingang",
+        "aantal_stemmen": 937,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 24,
+        "Amersfoort Anders": 18,
+        "Belangen Gemeenschap": 9,
+        "Burger Partij Amersfoort": 39,
+        "Christen Democratisch App\u00e9l": 44,
+        "ChristenUnie": 90,
+        "Democraten 66": 269,
+        "GroenLinks": 121,
+        "OPA": 4,
+        "Partij van de Arbeid": 96,
+        "Socialistische Partij": 92,
+        "Volkspartij voor Vrijheid en Democratie": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Kerkgebouw De Inham",
+        "aantal_stemmen": 934,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 33,
+        "Amersfoort Anders": 15,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 85,
+        "Christen Democratisch App\u00e9l": 156,
+        "ChristenUnie": 102,
+        "Democraten 66": 162,
+        "GroenLinks": 80,
+        "OPA": 36,
+        "Partij van de Arbeid": 82,
+        "Socialistische Partij": 101,
+        "Volkspartij voor Vrijheid en Democratie": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "PopUp stembureau ROC Midden-Nederland Disketteweg",
+        "aantal_stemmen": 930,
+        "lat": 52.1731399,
+        "lng": 5.40166,
+        "Amersfoort 2014": 24,
+        "Amersfoort Anders": 11,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 59,
+        "Christen Democratisch App\u00e9l": 69,
+        "ChristenUnie": 86,
+        "Democraten 66": 226,
+        "GroenLinks": 129,
+        "OPA": 25,
+        "Partij van de Arbeid": 67,
+        "Socialistische Partij": 99,
+        "Volkspartij voor Vrijheid en Democratie": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40166,
+          52.1731399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Dubbelster",
+        "aantal_stemmen": 926,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 30,
+        "Amersfoort Anders": 10,
+        "Belangen Gemeenschap": 16,
+        "Burger Partij Amersfoort": 65,
+        "Christen Democratisch App\u00e9l": 74,
+        "ChristenUnie": 107,
+        "Democraten 66": 193,
+        "GroenLinks": 72,
+        "OPA": 12,
+        "Partij van de Arbeid": 114,
+        "Socialistische Partij": 128,
+        "Volkspartij voor Vrijheid en Democratie": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Kerkgebouw De Lichtkring",
+        "aantal_stemmen": 926,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 61,
+        "Amersfoort Anders": 13,
+        "Belangen Gemeenschap": 3,
+        "Burger Partij Amersfoort": 43,
+        "Christen Democratisch App\u00e9l": 97,
+        "ChristenUnie": 153,
+        "Democraten 66": 166,
+        "GroenLinks": 53,
+        "OPA": 31,
+        "Partij van de Arbeid": 91,
+        "Socialistische Partij": 98,
+        "Volkspartij voor Vrijheid en Democratie": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal Juliana van Stolberg",
+        "aantal_stemmen": 923,
+        "lat": 52.14567,
+        "lng": 5.36104,
+        "Amersfoort 2014": 22,
+        "Amersfoort Anders": 28,
+        "Belangen Gemeenschap": 9,
+        "Burger Partij Amersfoort": 37,
+        "Christen Democratisch App\u00e9l": 62,
+        "ChristenUnie": 70,
+        "Democraten 66": 229,
+        "GroenLinks": 103,
+        "OPA": 27,
+        "Partij van de Arbeid": 92,
+        "Socialistische Partij": 164,
+        "Volkspartij voor Vrijheid en Democratie": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36104,
+          52.14567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Soci\u00ebteitsruimte Seniorenflat",
+        "aantal_stemmen": 923,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 21,
+        "Amersfoort Anders": 14,
+        "Belangen Gemeenschap": 5,
+        "Burger Partij Amersfoort": 67,
+        "Christen Democratisch App\u00e9l": 114,
+        "ChristenUnie": 153,
+        "Democraten 66": 142,
+        "GroenLinks": 53,
+        "OPA": 29,
+        "Partij van de Arbeid": 105,
+        "Socialistische Partij": 105,
+        "Volkspartij voor Vrijheid en Democratie": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Martuskerk",
+        "aantal_stemmen": 895,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 29,
+        "Amersfoort Anders": 20,
+        "Belangen Gemeenschap": 8,
+        "Burger Partij Amersfoort": 53,
+        "Christen Democratisch App\u00e9l": 47,
+        "ChristenUnie": 110,
+        "Democraten 66": 204,
+        "GroenLinks": 124,
+        "OPA": 28,
+        "Partij van de Arbeid": 95,
+        "Socialistische Partij": 115,
+        "Volkspartij voor Vrijheid en Democratie": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Vlindervallei",
+        "aantal_stemmen": 893,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 20,
+        "Amersfoort Anders": 22,
+        "Belangen Gemeenschap": 80,
+        "Burger Partij Amersfoort": 44,
+        "Christen Democratisch App\u00e9l": 51,
+        "ChristenUnie": 81,
+        "Democraten 66": 143,
+        "GroenLinks": 79,
+        "OPA": 11,
+        "Partij van de Arbeid": 206,
+        "Socialistische Partij": 93,
+        "Volkspartij voor Vrijheid en Democratie": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Burgemeester Molendijkflat",
+        "aantal_stemmen": 891,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 45,
+        "Amersfoort Anders": 22,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 80,
+        "Christen Democratisch App\u00e9l": 114,
+        "ChristenUnie": 167,
+        "Democraten 66": 117,
+        "GroenLinks": 36,
+        "OPA": 36,
+        "Partij van de Arbeid": 70,
+        "Socialistische Partij": 95,
+        "Volkspartij voor Vrijheid en Democratie": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Woon- en Zorgcentrum De Amerhorst",
+        "aantal_stemmen": 888,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 26,
+        "Amersfoort Anders": 22,
+        "Belangen Gemeenschap": 16,
+        "Burger Partij Amersfoort": 39,
+        "Christen Democratisch App\u00e9l": 87,
+        "ChristenUnie": 153,
+        "Democraten 66": 174,
+        "GroenLinks": 91,
+        "OPA": 16,
+        "Partij van de Arbeid": 112,
+        "Socialistische Partij": 86,
+        "Volkspartij voor Vrijheid en Democratie": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Meander",
+        "aantal_stemmen": 857,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 48,
+        "Amersfoort Anders": 23,
+        "Belangen Gemeenschap": 1,
+        "Burger Partij Amersfoort": 42,
+        "Christen Democratisch App\u00e9l": 53,
+        "ChristenUnie": 61,
+        "Democraten 66": 228,
+        "GroenLinks": 83,
+        "OPA": 16,
+        "Partij van de Arbeid": 103,
+        "Socialistische Partij": 82,
+        "Volkspartij voor Vrijheid en Democratie": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Fonteinkerk",
+        "aantal_stemmen": 856,
+        "lat": 52.2012799,
+        "lng": 5.3821899,
+        "Amersfoort 2014": 32,
+        "Amersfoort Anders": 11,
+        "Belangen Gemeenschap": 3,
+        "Burger Partij Amersfoort": 34,
+        "Christen Democratisch App\u00e9l": 94,
+        "ChristenUnie": 120,
+        "Democraten 66": 223,
+        "GroenLinks": 93,
+        "OPA": 6,
+        "Partij van de Arbeid": 65,
+        "Socialistische Partij": 54,
+        "Volkspartij voor Vrijheid en Democratie": 121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3821899,
+          52.2012799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "St. Ansfriduskerk",
+        "aantal_stemmen": 850,
+        "lat": 52.15258,
+        "lng": 5.3937799,
+        "Amersfoort 2014": 10,
+        "Amersfoort Anders": 12,
+        "Belangen Gemeenschap": 2,
+        "Burger Partij Amersfoort": 36,
+        "Christen Democratisch App\u00e9l": 66,
+        "ChristenUnie": 58,
+        "Democraten 66": 267,
+        "GroenLinks": 114,
+        "OPA": 16,
+        "Partij van de Arbeid": 77,
+        "Socialistische Partij": 84,
+        "Volkspartij voor Vrijheid en Democratie": 108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3937799,
+          52.15258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Emmauskerk",
+        "aantal_stemmen": 829,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 19,
+        "Amersfoort Anders": 20,
+        "Belangen Gemeenschap": 6,
+        "Burger Partij Amersfoort": 110,
+        "Christen Democratisch App\u00e9l": 52,
+        "ChristenUnie": 99,
+        "Democraten 66": 130,
+        "GroenLinks": 84,
+        "OPA": 26,
+        "Partij van de Arbeid": 82,
+        "Socialistische Partij": 146,
+        "Volkspartij voor Vrijheid en Democratie": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Burg. van Randwijckhuis",
+        "aantal_stemmen": 828,
+        "lat": 52.16166,
+        "lng": 5.40042,
+        "Amersfoort 2014": 17,
+        "Amersfoort Anders": 15,
+        "Belangen Gemeenschap": 27,
+        "Burger Partij Amersfoort": 46,
+        "Christen Democratisch App\u00e9l": 78,
+        "ChristenUnie": 119,
+        "Democraten 66": 173,
+        "GroenLinks": 50,
+        "OPA": 25,
+        "Partij van de Arbeid": 109,
+        "Socialistische Partij": 87,
+        "Volkspartij voor Vrijheid en Democratie": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40042,
+          52.16166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "St. Pieters en Bloklands Gasthuis",
+        "aantal_stemmen": 826,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 33,
+        "Amersfoort Anders": 18,
+        "Belangen Gemeenschap": 6,
+        "Burger Partij Amersfoort": 57,
+        "Christen Democratisch App\u00e9l": 64,
+        "ChristenUnie": 143,
+        "Democraten 66": 193,
+        "GroenLinks": 24,
+        "OPA": 16,
+        "Partij van de Arbeid": 60,
+        "Socialistische Partij": 77,
+        "Volkspartij voor Vrijheid en Democratie": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Weesboom",
+        "aantal_stemmen": 813,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 37,
+        "Amersfoort Anders": 24,
+        "Belangen Gemeenschap": 6,
+        "Burger Partij Amersfoort": 66,
+        "Christen Democratisch App\u00e9l": 51,
+        "ChristenUnie": 127,
+        "Democraten 66": 118,
+        "GroenLinks": 79,
+        "OPA": 31,
+        "Partij van de Arbeid": 101,
+        "Socialistische Partij": 116,
+        "Volkspartij voor Vrijheid en Democratie": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "De Gerfkamer",
+        "aantal_stemmen": 805,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 25,
+        "Amersfoort Anders": 24,
+        "Belangen Gemeenschap": 2,
+        "Burger Partij Amersfoort": 57,
+        "Christen Democratisch App\u00e9l": 38,
+        "ChristenUnie": 49,
+        "Democraten 66": 252,
+        "GroenLinks": 109,
+        "OPA": 2,
+        "Partij van de Arbeid": 74,
+        "Socialistische Partij": 71,
+        "Volkspartij voor Vrijheid en Democratie": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Woon- en Zorgcentrum De Koperhorst",
+        "aantal_stemmen": 795,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 32,
+        "Amersfoort Anders": 10,
+        "Belangen Gemeenschap": 4,
+        "Burger Partij Amersfoort": 47,
+        "Christen Democratisch App\u00e9l": 85,
+        "ChristenUnie": 179,
+        "Democraten 66": 119,
+        "GroenLinks": 49,
+        "OPA": 33,
+        "Partij van de Arbeid": 81,
+        "Socialistische Partij": 98,
+        "Volkspartij voor Vrijheid en Democratie": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "De Malehoeve",
+        "aantal_stemmen": 786,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 42,
+        "Amersfoort Anders": 20,
+        "Belangen Gemeenschap": 6,
+        "Burger Partij Amersfoort": 59,
+        "Christen Democratisch App\u00e9l": 157,
+        "ChristenUnie": 63,
+        "Democraten 66": 113,
+        "GroenLinks": 28,
+        "OPA": 27,
+        "Partij van de Arbeid": 48,
+        "Socialistische Partij": 110,
+        "Volkspartij voor Vrijheid en Democratie": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Kameleon",
+        "aantal_stemmen": 786,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 22,
+        "Amersfoort Anders": 22,
+        "Belangen Gemeenschap": 6,
+        "Burger Partij Amersfoort": 63,
+        "Christen Democratisch App\u00e9l": 64,
+        "ChristenUnie": 111,
+        "Democraten 66": 161,
+        "GroenLinks": 41,
+        "OPA": 25,
+        "Partij van de Arbeid": 93,
+        "Socialistische Partij": 87,
+        "Volkspartij voor Vrijheid en Democratie": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Woon- en Zorgcentrum Nijenstede",
+        "aantal_stemmen": 785,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 14,
+        "Amersfoort Anders": 15,
+        "Belangen Gemeenschap": 18,
+        "Burger Partij Amersfoort": 42,
+        "Christen Democratisch App\u00e9l": 92,
+        "ChristenUnie": 124,
+        "Democraten 66": 137,
+        "GroenLinks": 69,
+        "OPA": 18,
+        "Partij van de Arbeid": 99,
+        "Socialistische Partij": 100,
+        "Volkspartij voor Vrijheid en Democratie": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Prins Willem III-flat",
+        "aantal_stemmen": 782,
+        "lat": 52.14341,
+        "lng": 5.36043,
+        "Amersfoort 2014": 24,
+        "Amersfoort Anders": 21,
+        "Belangen Gemeenschap": 31,
+        "Burger Partij Amersfoort": 50,
+        "Christen Democratisch App\u00e9l": 45,
+        "ChristenUnie": 75,
+        "Democraten 66": 134,
+        "GroenLinks": 82,
+        "OPA": 30,
+        "Partij van de Arbeid": 90,
+        "Socialistische Partij": 137,
+        "Volkspartij voor Vrijheid en Democratie": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36043,
+          52.14341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal De Dissel",
+        "aantal_stemmen": 753,
+        "lat": 52.18692,
+        "lng": 5.39802,
+        "Amersfoort 2014": 18,
+        "Amersfoort Anders": 13,
+        "Belangen Gemeenschap": 1,
+        "Burger Partij Amersfoort": 49,
+        "Christen Democratisch App\u00e9l": 66,
+        "ChristenUnie": 86,
+        "Democraten 66": 254,
+        "GroenLinks": 26,
+        "OPA": 4,
+        "Partij van de Arbeid": 38,
+        "Socialistische Partij": 47,
+        "Volkspartij voor Vrijheid en Democratie": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39802,
+          52.18692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Wijkcentrum Het Klokhuis",
+        "aantal_stemmen": 746,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 32,
+        "Amersfoort Anders": 18,
+        "Belangen Gemeenschap": 35,
+        "Burger Partij Amersfoort": 58,
+        "Christen Democratisch App\u00e9l": 63,
+        "ChristenUnie": 115,
+        "Democraten 66": 82,
+        "GroenLinks": 52,
+        "OPA": 19,
+        "Partij van de Arbeid": 118,
+        "Socialistische Partij": 118,
+        "Volkspartij voor Vrijheid en Democratie": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Verpleeghuis St. Elisabeth",
+        "aantal_stemmen": 735,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 24,
+        "Amersfoort Anders": 10,
+        "Belangen Gemeenschap": 46,
+        "Burger Partij Amersfoort": 46,
+        "Christen Democratisch App\u00e9l": 52,
+        "ChristenUnie": 53,
+        "Democraten 66": 111,
+        "GroenLinks": 32,
+        "OPA": 18,
+        "Partij van de Arbeid": 186,
+        "Socialistische Partij": 105,
+        "Volkspartij voor Vrijheid en Democratie": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Wonderboom",
+        "aantal_stemmen": 726,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 33,
+        "Amersfoort Anders": 15,
+        "Belangen Gemeenschap": 5,
+        "Burger Partij Amersfoort": 42,
+        "Christen Democratisch App\u00e9l": 121,
+        "ChristenUnie": 98,
+        "Democraten 66": 136,
+        "GroenLinks": 22,
+        "OPA": 16,
+        "Partij van de Arbeid": 59,
+        "Socialistische Partij": 47,
+        "Volkspartij voor Vrijheid en Democratie": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Woon- en Zorgcentrum De Liendert",
+        "aantal_stemmen": 665,
+        "lat": 52.1666717529297,
+        "lng": 5.41666984558105,
+        "Amersfoort 2014": 18,
+        "Amersfoort Anders": 20,
+        "Belangen Gemeenschap": 56,
+        "Burger Partij Amersfoort": 47,
+        "Christen Democratisch App\u00e9l": 66,
+        "ChristenUnie": 66,
+        "Democraten 66": 90,
+        "GroenLinks": 32,
+        "OPA": 34,
+        "Partij van de Arbeid": 119,
+        "Socialistische Partij": 74,
+        "Volkspartij voor Vrijheid en Democratie": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41666984558105,
+          52.1666717529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Kubus",
+        "aantal_stemmen": 663,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 28,
+        "Amersfoort Anders": 20,
+        "Belangen Gemeenschap": 5,
+        "Burger Partij Amersfoort": 90,
+        "Christen Democratisch App\u00e9l": 29,
+        "ChristenUnie": 65,
+        "Democraten 66": 76,
+        "GroenLinks": 44,
+        "OPA": 32,
+        "Partij van de Arbeid": 85,
+        "Socialistische Partij": 152,
+        "Volkspartij voor Vrijheid en Democratie": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Armen de Poth",
+        "aantal_stemmen": 662,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 27,
+        "Amersfoort Anders": 29,
+        "Belangen Gemeenschap": 5,
+        "Burger Partij Amersfoort": 44,
+        "Christen Democratisch App\u00e9l": 32,
+        "ChristenUnie": 44,
+        "Democraten 66": 152,
+        "GroenLinks": 92,
+        "OPA": 16,
+        "Partij van de Arbeid": 57,
+        "Socialistische Partij": 94,
+        "Volkspartij voor Vrijheid en Democratie": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Kerkgebouw De Kandelaar",
+        "aantal_stemmen": 644,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 28,
+        "Amersfoort Anders": 7,
+        "Belangen Gemeenschap": 3,
+        "Burger Partij Amersfoort": 28,
+        "Christen Democratisch App\u00e9l": 47,
+        "ChristenUnie": 144,
+        "Democraten 66": 144,
+        "GroenLinks": 69,
+        "OPA": 14,
+        "Partij van de Arbeid": 61,
+        "Socialistische Partij": 40,
+        "Volkspartij voor Vrijheid en Democratie": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "ABC School Het Scala",
+        "aantal_stemmen": 635,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 15,
+        "Amersfoort Anders": 10,
+        "Belangen Gemeenschap": 72,
+        "Burger Partij Amersfoort": 30,
+        "Christen Democratisch App\u00e9l": 42,
+        "ChristenUnie": 72,
+        "Democraten 66": 82,
+        "GroenLinks": 38,
+        "OPA": 15,
+        "Partij van de Arbeid": 161,
+        "Socialistische Partij": 69,
+        "Volkspartij voor Vrijheid en Democratie": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Informatiecentrum Vathorst",
+        "aantal_stemmen": 633,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 16,
+        "Amersfoort Anders": 6,
+        "Belangen Gemeenschap": 2,
+        "Burger Partij Amersfoort": 20,
+        "Christen Democratisch App\u00e9l": 58,
+        "ChristenUnie": 113,
+        "Democraten 66": 144,
+        "GroenLinks": 13,
+        "OPA": 2,
+        "Partij van de Arbeid": 59,
+        "Socialistische Partij": 23,
+        "Volkspartij voor Vrijheid en Democratie": 177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "PopUp stembureau Het Pluspunt",
+        "aantal_stemmen": 631,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 28,
+        "Amersfoort Anders": 9,
+        "Belangen Gemeenschap": 3,
+        "Burger Partij Amersfoort": 35,
+        "Christen Democratisch App\u00e9l": 69,
+        "ChristenUnie": 63,
+        "Democraten 66": 131,
+        "GroenLinks": 32,
+        "OPA": 29,
+        "Partij van de Arbeid": 61,
+        "Socialistische Partij": 86,
+        "Volkspartij voor Vrijheid en Democratie": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "De Faam",
+        "aantal_stemmen": 630,
+        "lat": 52.1123,
+        "lng": 4.29404,
+        "Amersfoort 2014": 40,
+        "Amersfoort Anders": 3,
+        "Belangen Gemeenschap": 4,
+        "Burger Partij Amersfoort": 53,
+        "Christen Democratisch App\u00e9l": 104,
+        "ChristenUnie": 50,
+        "Democraten 66": 129,
+        "GroenLinks": 33,
+        "OPA": 28,
+        "Partij van de Arbeid": 43,
+        "Socialistische Partij": 52,
+        "Volkspartij voor Vrijheid en Democratie": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.29404,
+          52.1123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "De Schuilenburght",
+        "aantal_stemmen": 616,
+        "lat": 52.15292,
+        "lng": 5.4109299,
+        "Amersfoort 2014": 13,
+        "Amersfoort Anders": 9,
+        "Belangen Gemeenschap": 4,
+        "Burger Partij Amersfoort": 30,
+        "Christen Democratisch App\u00e9l": 109,
+        "ChristenUnie": 94,
+        "Democraten 66": 104,
+        "GroenLinks": 35,
+        "OPA": 29,
+        "Partij van de Arbeid": 38,
+        "Socialistische Partij": 29,
+        "Volkspartij voor Vrijheid en Democratie": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4109299,
+          52.15292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "ABC School De Bron",
+        "aantal_stemmen": 612,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 25,
+        "Amersfoort Anders": 7,
+        "Belangen Gemeenschap": 5,
+        "Burger Partij Amersfoort": 24,
+        "Christen Democratisch App\u00e9l": 49,
+        "ChristenUnie": 86,
+        "Democraten 66": 145,
+        "GroenLinks": 24,
+        "OPA": 4,
+        "Partij van de Arbeid": 55,
+        "Socialistische Partij": 39,
+        "Volkspartij voor Vrijheid en Democratie": 149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Adventkerk",
+        "aantal_stemmen": 607,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 17,
+        "Amersfoort Anders": 8,
+        "Belangen Gemeenschap": 36,
+        "Burger Partij Amersfoort": 35,
+        "Christen Democratisch App\u00e9l": 44,
+        "ChristenUnie": 56,
+        "Democraten 66": 99,
+        "GroenLinks": 51,
+        "OPA": 19,
+        "Partij van de Arbeid": 129,
+        "Socialistische Partij": 75,
+        "Volkspartij voor Vrijheid en Democratie": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw Axia Collega",
+        "aantal_stemmen": 605,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 13,
+        "Amersfoort Anders": 10,
+        "Belangen Gemeenschap": 56,
+        "Burger Partij Amersfoort": 29,
+        "Christen Democratisch App\u00e9l": 51,
+        "ChristenUnie": 71,
+        "Democraten 66": 77,
+        "GroenLinks": 22,
+        "OPA": 12,
+        "Partij van de Arbeid": 138,
+        "Socialistische Partij": 77,
+        "Volkspartij voor Vrijheid en Democratie": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Verenigingsgebouw Juliana en Bernhard",
+        "aantal_stemmen": 575,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 19,
+        "Amersfoort Anders": 5,
+        "Belangen Gemeenschap": 10,
+        "Burger Partij Amersfoort": 36,
+        "Christen Democratisch App\u00e9l": 32,
+        "ChristenUnie": 55,
+        "Democraten 66": 146,
+        "GroenLinks": 47,
+        "OPA": 11,
+        "Partij van de Arbeid": 59,
+        "Socialistische Partij": 84,
+        "Volkspartij voor Vrijheid en Democratie": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Kerkelijk Centrum De Hoeksteen",
+        "aantal_stemmen": 569,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 17,
+        "Amersfoort Anders": 7,
+        "Belangen Gemeenschap": 8,
+        "Burger Partij Amersfoort": 44,
+        "Christen Democratisch App\u00e9l": 46,
+        "ChristenUnie": 108,
+        "Democraten 66": 97,
+        "GroenLinks": 34,
+        "OPA": 15,
+        "Partij van de Arbeid": 61,
+        "Socialistische Partij": 81,
+        "Volkspartij voor Vrijheid en Democratie": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Nieuw-Apostolische Kerk",
+        "aantal_stemmen": 554,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 12,
+        "Amersfoort Anders": 16,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 15,
+        "Christen Democratisch App\u00e9l": 34,
+        "ChristenUnie": 47,
+        "Democraten 66": 172,
+        "GroenLinks": 59,
+        "OPA": 5,
+        "Partij van de Arbeid": 42,
+        "Socialistische Partij": 34,
+        "Volkspartij voor Vrijheid en Democratie": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Gondelier",
+        "aantal_stemmen": 549,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 18,
+        "Amersfoort Anders": 14,
+        "Belangen Gemeenschap": 8,
+        "Burger Partij Amersfoort": 40,
+        "Christen Democratisch App\u00e9l": 50,
+        "ChristenUnie": 61,
+        "Democraten 66": 153,
+        "GroenLinks": 16,
+        "OPA": 3,
+        "Partij van de Arbeid": 41,
+        "Socialistische Partij": 27,
+        "Volkspartij voor Vrijheid en Democratie": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal Rustenburg",
+        "aantal_stemmen": 549,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 28,
+        "Amersfoort Anders": 19,
+        "Belangen Gemeenschap": 22,
+        "Burger Partij Amersfoort": 59,
+        "Christen Democratisch App\u00e9l": 32,
+        "ChristenUnie": 49,
+        "Democraten 66": 73,
+        "GroenLinks": 23,
+        "OPA": 22,
+        "Partij van de Arbeid": 81,
+        "Socialistische Partij": 99,
+        "Volkspartij voor Vrijheid en Democratie": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Westerkerk",
+        "aantal_stemmen": 538,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 26,
+        "Amersfoort Anders": 12,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 43,
+        "Christen Democratisch App\u00e9l": 48,
+        "ChristenUnie": 89,
+        "Democraten 66": 96,
+        "GroenLinks": 67,
+        "OPA": 14,
+        "Partij van de Arbeid": 31,
+        "Socialistische Partij": 84,
+        "Volkspartij voor Vrijheid en Democratie": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Magneet",
+        "aantal_stemmen": 528,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 19,
+        "Amersfoort Anders": 13,
+        "Belangen Gemeenschap": 9,
+        "Burger Partij Amersfoort": 106,
+        "Christen Democratisch App\u00e9l": 24,
+        "ChristenUnie": 51,
+        "Democraten 66": 49,
+        "GroenLinks": 37,
+        "OPA": 19,
+        "Partij van de Arbeid": 66,
+        "Socialistische Partij": 112,
+        "Volkspartij voor Vrijheid en Democratie": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Seniorenflat Otto Scheltus",
+        "aantal_stemmen": 527,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 16,
+        "Amersfoort Anders": 11,
+        "Belangen Gemeenschap": 3,
+        "Burger Partij Amersfoort": 36,
+        "Christen Democratisch App\u00e9l": 43,
+        "ChristenUnie": 39,
+        "Democraten 66": 132,
+        "GroenLinks": 48,
+        "OPA": 4,
+        "Partij van de Arbeid": 49,
+        "Socialistische Partij": 59,
+        "Volkspartij voor Vrijheid en Democratie": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Ichthuskerk",
+        "aantal_stemmen": 515,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 12,
+        "Amersfoort Anders": 16,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 41,
+        "Christen Democratisch App\u00e9l": 61,
+        "ChristenUnie": 35,
+        "Democraten 66": 126,
+        "GroenLinks": 61,
+        "OPA": 8,
+        "Partij van de Arbeid": 51,
+        "Socialistische Partij": 44,
+        "Volkspartij voor Vrijheid en Democratie": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Parel",
+        "aantal_stemmen": 471,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 13,
+        "Amersfoort Anders": 6,
+        "Belangen Gemeenschap": 58,
+        "Burger Partij Amersfoort": 10,
+        "Christen Democratisch App\u00e9l": 21,
+        "ChristenUnie": 55,
+        "Democraten 66": 64,
+        "GroenLinks": 30,
+        "OPA": 6,
+        "Partij van de Arbeid": 105,
+        "Socialistische Partij": 82,
+        "Volkspartij voor Vrijheid en Democratie": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Sporthal Schuilenburg",
+        "aantal_stemmen": 426,
+        "lat": 52.1666717529297,
+        "lng": 5.41666984558105,
+        "Amersfoort 2014": 7,
+        "Amersfoort Anders": 7,
+        "Belangen Gemeenschap": 44,
+        "Burger Partij Amersfoort": 12,
+        "Christen Democratisch App\u00e9l": 26,
+        "ChristenUnie": 44,
+        "Democraten 66": 61,
+        "GroenLinks": 17,
+        "OPA": 9,
+        "Partij van de Arbeid": 125,
+        "Socialistische Partij": 56,
+        "Volkspartij voor Vrijheid en Democratie": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41666984558105,
+          52.1666717529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Overseldert",
+        "aantal_stemmen": 404,
+        "lat": 52.5444,
+        "lng": 5.91487,
+        "Amersfoort 2014": 23,
+        "Amersfoort Anders": 10,
+        "Belangen Gemeenschap": 4,
+        "Burger Partij Amersfoort": 34,
+        "Christen Democratisch App\u00e9l": 42,
+        "ChristenUnie": 57,
+        "Democraten 66": 65,
+        "GroenLinks": 17,
+        "OPA": 16,
+        "Partij van de Arbeid": 47,
+        "Socialistische Partij": 55,
+        "Volkspartij voor Vrijheid en Democratie": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91487,
+          52.5444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Drieslag",
+        "aantal_stemmen": 390,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 27,
+        "Amersfoort Anders": 11,
+        "Belangen Gemeenschap": 4,
+        "Burger Partij Amersfoort": 26,
+        "Christen Democratisch App\u00e9l": 18,
+        "ChristenUnie": 48,
+        "Democraten 66": 84,
+        "GroenLinks": 35,
+        "OPA": 7,
+        "Partij van de Arbeid": 36,
+        "Socialistische Partij": 58,
+        "Volkspartij voor Vrijheid en Democratie": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Gymzaal Koning Arthurpad",
+        "aantal_stemmen": 374,
+        "lat": 52.16965,
+        "lng": 5.38661,
+        "Amersfoort 2014": 4,
+        "Amersfoort Anders": 11,
+        "Belangen Gemeenschap": 20,
+        "Burger Partij Amersfoort": 31,
+        "Christen Democratisch App\u00e9l": 26,
+        "ChristenUnie": 38,
+        "Democraten 66": 54,
+        "GroenLinks": 16,
+        "OPA": 24,
+        "Partij van de Arbeid": 46,
+        "Socialistische Partij": 78,
+        "Volkspartij voor Vrijheid en Democratie": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38661,
+          52.16965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Schoolgebouw De Zonnewijzer",
+        "aantal_stemmen": 370,
+        "lat": 52.19925,
+        "lng": 5.37669,
+        "Amersfoort 2014": 25,
+        "Amersfoort Anders": 11,
+        "Belangen Gemeenschap": 2,
+        "Burger Partij Amersfoort": 30,
+        "Christen Democratisch App\u00e9l": 41,
+        "ChristenUnie": 57,
+        "Democraten 66": 60,
+        "GroenLinks": 18,
+        "OPA": 13,
+        "Partij van de Arbeid": 31,
+        "Socialistische Partij": 38,
+        "Volkspartij voor Vrijheid en Democratie": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37669,
+          52.19925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Caf\u00e9 De Plank",
+        "aantal_stemmen": 308,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 7,
+        "Amersfoort Anders": 0,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 23,
+        "Christen Democratisch App\u00e9l": 153,
+        "ChristenUnie": 10,
+        "Democraten 66": 30,
+        "GroenLinks": 8,
+        "OPA": 3,
+        "Partij van de Arbeid": 11,
+        "Socialistische Partij": 13,
+        "Volkspartij voor Vrijheid en Democratie": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Caf\u00e9 Havana",
+        "aantal_stemmen": 287,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 8,
+        "Amersfoort Anders": 14,
+        "Belangen Gemeenschap": 3,
+        "Burger Partij Amersfoort": 39,
+        "Christen Democratisch App\u00e9l": 15,
+        "ChristenUnie": 21,
+        "Democraten 66": 46,
+        "GroenLinks": 29,
+        "OPA": 8,
+        "Partij van de Arbeid": 33,
+        "Socialistische Partij": 46,
+        "Volkspartij voor Vrijheid en Democratie": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Zon en Schild",
+        "aantal_stemmen": 192,
+        "lat": 52.19958,
+        "lng": 5.42794,
+        "Amersfoort 2014": 3,
+        "Amersfoort Anders": 3,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 6,
+        "Christen Democratisch App\u00e9l": 16,
+        "ChristenUnie": 19,
+        "Democraten 66": 23,
+        "GroenLinks": 18,
+        "OPA": 3,
+        "Partij van de Arbeid": 29,
+        "Socialistische Partij": 57,
+        "Volkspartij voor Vrijheid en Democratie": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42794,
+          52.19958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Restaurant Feefa",
+        "aantal_stemmen": 156,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 3,
+        "Amersfoort Anders": 2,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 6,
+        "Christen Democratisch App\u00e9l": 29,
+        "ChristenUnie": 50,
+        "Democraten 66": 6,
+        "GroenLinks": 3,
+        "OPA": 4,
+        "Partij van de Arbeid": 13,
+        "Socialistische Partij": 8,
+        "Volkspartij voor Vrijheid en Democratie": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Woon- en Zorgcentrum De Lichtenberg",
+        "aantal_stemmen": 139,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 3,
+        "Amersfoort Anders": 2,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 6,
+        "Christen Democratisch App\u00e9l": 26,
+        "ChristenUnie": 15,
+        "Democraten 66": 21,
+        "GroenLinks": 7,
+        "OPA": 2,
+        "Partij van de Arbeid": 15,
+        "Socialistische Partij": 12,
+        "Volkspartij voor Vrijheid en Democratie": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stemburo": "Verpleeghuis Birkhoven",
+        "aantal_stemmen": 82,
+        "lat": 52.1882019042969,
+        "lng": 5.41968011856079,
+        "Amersfoort 2014": 3,
+        "Amersfoort Anders": 1,
+        "Belangen Gemeenschap": 0,
+        "Burger Partij Amersfoort": 6,
+        "Christen Democratisch App\u00e9l": 10,
+        "ChristenUnie": 9,
+        "Democraten 66": 21,
+        "GroenLinks": 3,
+        "OPA": 1,
+        "Partij van de Arbeid": 8,
+        "Socialistische Partij": 12,
+        "Volkspartij voor Vrijheid en Democratie": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.41968011856079,
+          52.1882019042969
+        ]
+      }
+    }
+  ]
+}
