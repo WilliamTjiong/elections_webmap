@@ -1,4 +1,4 @@
-#Dutch municipal elections 2018 webmap
+**Dutch municipal elections 2018 webmap**
 
 A simple webmap with an interactive chart of the Dutch municipal elections 2018.
 
